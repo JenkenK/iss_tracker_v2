@@ -1,6 +1,6 @@
 # iss_tracker
 
-Version 2.0 of an ISS tracker built with Vue.js using a different API from version 1.0 for relevant infomation. Version 1.0 can be found [here](https://github.com/JenkenK/iss_tracker)
+Version 2.0 of an ISS tracker built with Vue.js using a different API from version 1.0 for relevant infomation. This app also uses MapBox for it's map. Version 1.0 can be found [here](https://github.com/JenkenK/iss_tracker)
 
 ## Image of ISS Tracker App Running on Browser
 
